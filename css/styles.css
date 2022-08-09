@@ -1,0 +1,11 @@
+div.intro {
+
+  font-weight: bold;
+}
+
+span{
+  font-weight: bolder;
+  font-size: 20px;
+  color: red;
+  font-style: oblique;
+}
